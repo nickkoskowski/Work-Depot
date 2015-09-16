@@ -1,0 +1,22 @@
+header {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 25px;
+  padding: 15px 0px; }
+  header h1 {
+    margin: 0px; }
+  header nav {
+    vertical-align: middle; }
+    header nav ul {
+      margin: 0px;
+      padding: 0px; }
+      header nav ul li {
+        display: inline-block;
+        vertical-align: middle;
+        font-size: 18px;
+        padding: 10px 15px; }
+
+#map {
+  height: 360px; }
+
+.job-table {
+  width: 100%; }
