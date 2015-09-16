@@ -12,6 +12,9 @@
 					<h1>Work Depot</h1>
 				</div>
 				<div class="col-md-8 text-right">
+					<nav>
+						<?php wp_nav_menu( array( 'theme_location' => 'right-header-menu' ) ); ?>
+					</nav>
 				</div>
 			</div>
 		</div>
