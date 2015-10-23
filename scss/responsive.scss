@@ -1,0 +1,33 @@
+@media(max-width:480px) {
+	header {
+		position:fixed;
+		top:0px;
+		left:0px;
+		width:100%;
+		z-index:999;
+		h1 {
+			font-size:26px;
+		}
+
+		nav {
+			display:none;
+			ul {
+				li {
+					padding:0px 10px;
+				}
+			}
+		}
+	}
+
+	main {
+		margin-top:62px;
+	}
+
+	#resp-menu {
+		display:block;
+	}
+
+	.login-form {
+		margin-bottom:35px;
+	}
+}

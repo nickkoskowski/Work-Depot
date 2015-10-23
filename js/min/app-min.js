@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#accountType").change(function(){accountType=jQuery("#accountType").val(),"contractor"===accountType?(jQuery("#isLaborer").hide(),jQuery("#isContractor").show()):"laborer"===accountType&&(jQuery("#isContractor").hide(),jQuery("#isLaborer").show())})});
