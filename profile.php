@@ -34,7 +34,7 @@ get_header(); ?>
 			</tbody>
 		</table>
 		<h3>My Skills</h3>
-		<table>
+		<table id="skillTable">
 			<tbody>
 				<tr>
 					<td>

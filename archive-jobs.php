@@ -14,7 +14,7 @@
 					<?php while ( $mapposts->have_posts() ) : $mapposts->the_post(); ?>
 					<div class="row job">
 						<div class="col-md-8">
-							<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+							<h3><i class="fa fa-wrench"></i> <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
 						</div>
 						<div class="col-md-4">
 							<h3><?php echo get_job_price(); ?></h3>

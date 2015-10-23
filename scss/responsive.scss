@@ -24,10 +24,18 @@
 	}
 
 	#resp-menu {
-		display:block;
+		display:block !important;
 	}
 
 	.login-form {
 		margin-bottom:35px;
+	}
+
+	#skillTable {
+		text-align:center;
+		td {padding:5px 2px;}
+		label {
+			display:block;
+		}
 	}
 }

@@ -16,7 +16,14 @@
     margin-top: 62px; }
 
   #resp-menu {
-    display: block; }
+    display: block !important; }
 
   .login-form {
-    margin-bottom: 35px; } }
+    margin-bottom: 35px; }
+
+  #skillTable {
+    text-align: center; }
+    #skillTable td {
+      padding: 5px 2px; }
+    #skillTable label {
+      display: block; } }

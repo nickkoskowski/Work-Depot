@@ -14,7 +14,7 @@
 					<?php while ( $mapposts->have_posts() ) : $mapposts->the_post(); ?>
 					<div class="row">
 						<div class="col-md-12">
-							<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+							<h3><a href="<?php the_permalink(); ?>"><i class="fa fa-wrench"></i> <?php the_title(); ?></a></h3>
 						</div>
 						<div class="col-md-6">
 							<p>Offered by: <?php the_author(); ?></p>

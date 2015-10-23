@@ -25,6 +25,11 @@
                             </li>
                         </ul>
                     </nav>
+                    <div class="drawer">
+                        <nav>
+                            <?php wp_nav_menu( array( 'theme_location' => 'right-header-menu' ) ); ?>
+                        </nav>
+                    </div>
                 </div>
             </div>
         </div>
