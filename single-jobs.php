@@ -36,11 +36,31 @@
 				<div class="row text-center">
 					<div class="col-md-12">
 						<?php if (check_specializations() == true) {
-							echo '<button>Apply for this Job</button>';
+							echo '<button id="jobApply">Apply for this Job</button>';
 						}
 						else {
 							echo '<p style="margin-top:25px;">Your profile is missing one or more skills required for this job.</p>';
 						} ?>
+						<div id="applicants" class="text-left">
+							<h2>Applicants</h2>
+							<div class="applicant">
+								<div class="row">
+									<div class="col-md-6">
+										<img src="http://placehold.it/45x45" height="45" width="45">
+										<h4>Nicholas Koskowski</h4>
+									</div>
+									<div class="col-md-6 text-right">
+										<div class="feedback-ratings">
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star"></i>
+											<i class="fa fa-star-o"></i>
+											<i class="fa fa-star-o"></i>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
