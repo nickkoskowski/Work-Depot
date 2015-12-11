@@ -1,0 +1,1959 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mango core\n"
+"POT-Creation-Date: 2015-11-17 13:07+0500\n"
+"PO-Revision-Date: 2015-11-17 13:07+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;_ex;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../css\n"
+"X-Poedit-SearchPathExcluded-1: ../js\n"
+
+#: ../include/mango-shortcode.php:24
+msgid "Alert Boxes"
+msgstr ""
+
+#: ../include/mango-shortcode.php:26 ../include/mango-shortcode.php:76
+#: ../include/mango-shortcode.php:112 ../include/mango-shortcode.php:187
+#: ../include/mango-shortcode.php:232 ../include/mango-shortcode.php:345
+#: ../include/mango-shortcode.php:411 ../include/mango-shortcode.php:443
+#: ../include/mango-shortcode.php:494 ../include/mango-shortcode.php:525
+#: ../include/mango-shortcode.php:791 ../vc/mango_custom_row.php:58
+#: ../vc/vc-shortcodes.php:13 ../vc/vc-shortcodes.php:123
+#: ../vc/vc-shortcodes.php:245 ../vc_extend/vc_map.php:109
+#: ../vc_extend/vc_map.php:172 ../vc_extend/vc_map.php:233
+#: ../vc_extend/vc_map.php:288 ../vc_extend/vc_map.php:359
+#: ../vc_extend/vc_map.php:402 ../vc_extend/vc_map.php:420
+#: ../vc_extend/vc_map.php:449 ../vc_extend/vc_map.php:494
+#: ../vc_extend/vc_map.php:538 ../vc_extend/vc_map.php:597
+#: ../vc_extend/vc_map.php:658 ../vc_extend/vc_map.php:711
+#: ../vc_extend/vc_map.php:839 ../vc_extend/vc_map.php:891
+#: ../vc_extend/vc_map.php:963 ../vc_extend/vc_map.php:1045
+#: ../vc_extend/vc_map.php:1118 ../vc_extend/vc_map.php:1167
+#: ../vc_extend/vc_map.php:1206 ../vc_extend/vc_map.php:1252
+#: ../vc_extend/vc_map.php:1290 ../vc_extend/vc_map.php:1327
+#: ../vc_extend/vc_map.php:1353 ../vc_extend/vc_map.php:1380
+#: ../vc_extend/vc_map.php:1436 ../vc_extend/vc_map.php:1503
+#: ../vc_extend/vc_map.php:1591 ../vc_extend/vc_map_wc.php:7
+#: ../vc_extend/vc_map_wc.php:73 ../vc_extend/vc_map_wc.php:106
+#: ../vc_extend/vc_map_wc.php:175 ../vc_extend/vc_map_wc.php:306
+msgid "Mango"
+msgstr ""
+
+#: ../include/mango-shortcode.php:74
+msgid "Mango Image"
+msgstr ""
+
+#: ../include/mango-shortcode.php:110
+msgid "Mango Button"
+msgstr ""
+
+#: ../include/mango-shortcode.php:185
+msgid "Mango Progressbars"
+msgstr ""
+
+#: ../include/mango-shortcode.php:192 ../include/mango-shortcode.php:418
+#: ../include/mango-shortcode.php:450 ../include/mango-shortcode.php:501
+#: ../include/mango-shortcode.php:532 ../vc/vc-shortcodes.php:253
+#: ../vc_extend/vc_map.php:126 ../vc_extend/vc_map.php:186
+#: ../vc_extend/vc_map.php:294 ../vc_extend/vc_map.php:509
+#: ../vc_extend/vc_map.php:611 ../vc_extend/vc_map.php:673
+#: ../vc_extend/vc_map.php:725 ../vc_extend/vc_map.php:853
+#: ../vc_extend/vc_map.php:897 ../vc_extend/vc_map.php:1131
+#: ../widgets/widgets/ad_banner.php:50 ../widgets/widgets/ad_banner_wc.php:35
+#: ../widgets/widgets/contact.php:90
+#: ../widgets/widgets/information_widget.php:60
+#: ../widgets/widgets/mango_clients-widget.php:79
+#: ../widgets/widgets/mango_product_banner.php:57
+#: ../widgets/widgets/mango_recent_post.php:79
+#: ../widgets/widgets/mango_related_product.php:81
+#: ../widgets/widgets/mango_testimonials-widget.php:60
+#: ../widgets/widgets/mango_woocommerce_cat.php:118
+msgid "Title"
+msgstr ""
+
+#: ../include/mango-shortcode.php:200 ../include/mango-shortcode.php:458
+msgid "Graphic values"
+msgstr ""
+
+#: ../include/mango-shortcode.php:228
+msgid "List Groups"
+msgstr ""
+
+#: ../include/mango-shortcode.php:237 ../include/mango-shortcode.php:267
+#: ../include/mango-shortcode.php:308 ../include/mango-shortcode.php:432
+msgid "Point"
+msgstr ""
+
+#: ../include/mango-shortcode.php:243 ../include/mango-shortcode.php:273
+msgid "Color value"
+msgstr ""
+
+#: ../include/mango-shortcode.php:249 ../include/mango-shortcode.php:279
+#: ../vc_extend/vc_map.php:682 ../vc_extend/vc_map.php:769
+#: ../vc_extend/vc_map.php:1009 ../vc_extend/vc_map.php:1083
+#: ../vc_extend/vc_map.php:1619 ../vc_extend/vc_map_wc.php:121
+#: ../widgets/widgets/mango_related_product.php:88
+#: ../widgets/widgets/mango_woocommerce_cat.php:125
+msgid "Number"
+msgstr ""
+
+#: ../include/mango-shortcode.php:259
+msgid "Add Point"
+msgstr ""
+
+#: ../include/mango-shortcode.php:300
+msgid "Add Point (Witout Ul element)"
+msgstr ""
+
+#: ../include/mango-shortcode.php:314 ../vc_extend/vc_map.php:239
+#: ../vc_extend/vc_map.php:365 ../vc_extend/vc_map.php:408
+#: ../vc_extend/vc_map.php:426 ../vc_extend/vc_map.php:463
+#: ../vc_extend/vc_map.php:977 ../vc_extend/vc_map.php:1059
+#: ../vc_extend/vc_map.php:1173 ../vc_extend/vc_map.php:1221
+#: ../vc_extend/vc_map.php:1258 ../vc_extend/vc_map.php:1296
+#: ../vc_extend/vc_map.php:1342 ../vc_extend/vc_map.php:1597
+#: ../vc_extend/vc_map_wc.php:13 ../vc_extend/vc_map_wc.php:87
+#: ../vc_extend/vc_map_wc.php:113
+msgid "Heading"
+msgstr ""
+
+#: ../include/mango-shortcode.php:320 ../include/mango-shortcode.php:509
+#: ../vc_extend/vc_map.php:143 ../vc_extend/vc_map.php:257
+#: ../vc_extend/vc_map.php:471 ../vc_extend/vc_map.php:527
+#: ../vc_extend/vc_map.php:629 ../vc_extend/vc_map.php:870
+#: ../vc_extend/vc_map.php:929 ../vc_extend/vc_map.php:985
+#: ../vc_extend/vc_map.php:1181 ../vc_extend/vc_map.php:1229
+#: ../vc_extend/vc_map.php:1266 ../vc_extend/vc_map.php:1304
+#: ../widgets/widgets/ad_banner.php:71 ../widgets/widgets/contact.php:136
+#: ../widgets/widgets/information_widget.php:77
+msgid "Description"
+msgstr ""
+
+#: ../include/mango-shortcode.php:326
+msgid "Active"
+msgstr ""
+
+#: ../include/mango-shortcode.php:332 ../include/mango-shortcode.php:400
+msgid "Url"
+msgstr ""
+
+#: ../include/mango-shortcode.php:341
+msgid "Mango Dropdown Button"
+msgstr ""
+
+#: ../include/mango-shortcode.php:350 ../include/mango-shortcode.php:719
+msgid "Text on the button"
+msgstr ""
+
+#: ../include/mango-shortcode.php:363
+msgid "dropdown-toggle on text"
+msgstr ""
+
+#: ../include/mango-shortcode.php:380
+msgid "Add Button Text and Link"
+msgstr ""
+
+#: ../include/mango-shortcode.php:388 ../vc/vc-shortcodes.php:63
+#: ../vc_extend/vc_map.php:151 ../vc_extend/vc_map.php:214
+#: ../vc_extend/vc_map.php:266 ../vc_extend/vc_map.php:576
+#: ../vc_extend/vc_map.php:638 ../vc_extend/vc_map.php:751
+#: ../vc_extend/vc_map.php:1147 ../vc_extend/vc_map.php:1386
+msgid "Button Text"
+msgstr ""
+
+#: ../include/mango-shortcode.php:394
+msgid "Keep disable"
+msgstr ""
+
+#: ../include/mango-shortcode.php:410
+msgid "Mango List"
+msgstr ""
+
+#: ../include/mango-shortcode.php:442
+msgid "Mango Circle Progressbars"
+msgstr ""
+
+#: ../include/mango-shortcode.php:493
+msgid "Mango Blockquote"
+msgstr ""
+
+#: ../include/mango-shortcode.php:524
+msgid "Mango Media"
+msgstr ""
+
+#: ../include/mango-shortcode.php:791
+msgid " with mango style"
+msgstr ""
+
+#: ../include/mango-shortcode.php:791
+msgid "Tabbed content"
+msgstr ""
+
+#: ../include/mango_core_function.php:7
+msgid "username"
+msgstr ""
+
+#: ../include/mango_core_function.php:8
+msgid "password"
+msgstr ""
+
+#: ../include/mango_core_function.php:9
+msgid "Log Now"
+msgstr ""
+
+#: ../include/mango_core_function.php:47
+msgid "Username"
+msgstr ""
+
+#: ../include/mango_core_function.php:52
+msgid "Password"
+msgstr ""
+
+#: ../include/mango_core_function.php:57 ../widgets/widgets/contact.php:62
+#: ../widgets/widgets/contact.php:127
+msgid "Email"
+msgstr ""
+
+#: ../include/mango_core_function.php:61
+msgid "Website"
+msgstr ""
+
+#: ../include/mango_core_function.php:66
+msgid "First Name"
+msgstr ""
+
+#: ../include/mango_core_function.php:71
+msgid "Last Name"
+msgstr ""
+
+#: ../include/mango_core_function.php:75
+msgid "About / Bio"
+msgstr ""
+
+#: ../include/mango_core_function.php:80
+msgid "Nickname"
+msgstr ""
+
+#: ../include/mango_core_function.php:85
+msgid "Register"
+msgstr ""
+
+#: ../include/mango_core_function.php:100
+msgid "Required form field is missing (Username, Password or Email)"
+msgstr ""
+
+#: ../include/mango_core_function.php:104
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+
+#: ../include/mango_core_function.php:108
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: ../include/mango_core_function.php:110
+msgid "Sorry, the username you entered is not valid"
+msgstr ""
+
+#: ../include/mango_core_function.php:114
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: ../include/mango_core_function.php:118
+msgid "Email is not valid"
+msgstr ""
+
+#: ../include/mango_core_function.php:122
+msgid "Email Already in use"
+msgstr ""
+
+#: ../include/mango_core_function.php:127
+msgid "Website is not a valid URL"
+msgstr ""
+
+#: ../include/mango_core_function.php:135
+msgid "ERROR"
+msgstr ""
+
+#: ../include/mango_core_function.php:162
+msgid "Registration complete."
+msgstr ""
+
+#: ../include/mango_core_function.php:162
+msgid "Go to"
+msgstr ""
+
+#: ../include/mango_core_function.php:162
+msgid "login page"
+msgstr ""
+
+#: ../include/mango_post_types.php:5 ../include/mango_post_types.php:7
+msgid "Portfolios"
+msgstr ""
+
+#: ../include/mango_post_types.php:6 ../include/mango_post_types.php:26
+msgid "Portfolio"
+msgstr ""
+
+#: ../include/mango_post_types.php:8
+msgid "Parent Portoflio:"
+msgstr ""
+
+#: ../include/mango_post_types.php:9
+msgid "All Portoflios"
+msgstr ""
+
+#: ../include/mango_post_types.php:10
+msgid "View Portoflio"
+msgstr ""
+
+#: ../include/mango_post_types.php:11
+msgid "Add New Portoflio"
+msgstr ""
+
+#: ../include/mango_post_types.php:12 ../include/mango_post_types.php:84
+#: ../include/mango_post_types.php:131 ../include/mango_post_types.php:194
+#: ../include/mango_post_types.php:264
+msgid "Add New"
+msgstr ""
+
+#: ../include/mango_post_types.php:13
+msgid "Edit Portoflio"
+msgstr ""
+
+#: ../include/mango_post_types.php:14
+msgid "Update Portoflio"
+msgstr ""
+
+#: ../include/mango_post_types.php:15
+msgid "Search Portoflio"
+msgstr ""
+
+#: ../include/mango_post_types.php:16 ../include/mango_post_types.php:88
+#: ../include/mango_post_types.php:135 ../include/mango_post_types.php:198
+msgid "Not found"
+msgstr ""
+
+#: ../include/mango_post_types.php:17 ../include/mango_post_types.php:89
+#: ../include/mango_post_types.php:136 ../include/mango_post_types.php:199
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../include/mango_post_types.php:27
+msgid "Portfolio Description"
+msgstr ""
+
+#: ../include/mango_post_types.php:47 ../include/mango_post_types.php:57
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../include/mango_post_types.php:48
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:49
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:50
+msgid "All Portfolio Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:51
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:52
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../include/mango_post_types.php:53
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:54
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:55
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:56
+msgid "New Portfolio Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:77 ../include/mango_post_types.php:79
+#: ../vc_extend/vc_extend.php:343 ../vc_extend/vc_map.php:428
+msgid "Testimonials"
+msgstr ""
+
+#: ../include/mango_post_types.php:78 ../include/mango_post_types.php:98
+msgid "Testimonial"
+msgstr ""
+
+#: ../include/mango_post_types.php:80
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: ../include/mango_post_types.php:81
+msgid "All Testimonial"
+msgstr ""
+
+#: ../include/mango_post_types.php:82
+msgid "View Testimonial"
+msgstr ""
+
+#: ../include/mango_post_types.php:83
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../include/mango_post_types.php:85
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../include/mango_post_types.php:86
+msgid "Update Testimonial"
+msgstr ""
+
+#: ../include/mango_post_types.php:87
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../include/mango_post_types.php:99
+msgid "Testimonial Description"
+msgstr ""
+
+#: ../include/mango_post_types.php:124 ../include/mango_post_types.php:126
+#: ../include/mango_post_types.php:145 ../vc_extend/vc_extend.php:278
+#: ../vc_extend/vc_map.php:367
+msgid "Clients"
+msgstr ""
+
+#: ../include/mango_post_types.php:125
+msgid "Client"
+msgstr ""
+
+#: ../include/mango_post_types.php:127
+msgid "Parent Client:"
+msgstr ""
+
+#: ../include/mango_post_types.php:128
+msgid "All Clients"
+msgstr ""
+
+#: ../include/mango_post_types.php:129
+msgid "View Client"
+msgstr ""
+
+#: ../include/mango_post_types.php:130
+msgid "Add New Client"
+msgstr ""
+
+#: ../include/mango_post_types.php:132
+msgid "Edit Client"
+msgstr ""
+
+#: ../include/mango_post_types.php:133
+msgid "Update Client"
+msgstr ""
+
+#: ../include/mango_post_types.php:134
+msgid "Search Client"
+msgstr ""
+
+#: ../include/mango_post_types.php:146
+msgid "Client Description"
+msgstr ""
+
+#: ../include/mango_post_types.php:187 ../include/mango_post_types.php:189
+#: ../include/mango_post_types.php:208
+msgid "FAQs"
+msgstr ""
+
+#: ../include/mango_post_types.php:188
+msgid "FAQ"
+msgstr ""
+
+#: ../include/mango_post_types.php:190
+msgid "Parent FAQs:"
+msgstr ""
+
+#: ../include/mango_post_types.php:191
+msgid "All FAQs"
+msgstr ""
+
+#: ../include/mango_post_types.php:192
+msgid "View FAQs"
+msgstr ""
+
+#: ../include/mango_post_types.php:193
+msgid "Add New FAQs"
+msgstr ""
+
+#: ../include/mango_post_types.php:195
+msgid "Edit FAQs"
+msgstr ""
+
+#: ../include/mango_post_types.php:196
+msgid "Update FAQs"
+msgstr ""
+
+#: ../include/mango_post_types.php:197
+msgid "Search FAQs"
+msgstr ""
+
+#: ../include/mango_post_types.php:209
+msgid "FAQs Description"
+msgstr ""
+
+#: ../include/mango_post_types.php:229
+msgid "FAQs Categories"
+msgstr ""
+
+#: ../include/mango_post_types.php:230
+msgid "FAQs Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:231
+msgid "Search FAQs Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:232
+msgid "All FAQs Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:233
+msgid "Parent FAQs Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:234
+msgid "Parent FAQs Category:"
+msgstr ""
+
+#: ../include/mango_post_types.php:235
+msgid "Edit FAQs Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:236
+msgid "Update FAQs Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:237
+msgid "Add New FAQs Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:238
+msgid "New FAQs Category"
+msgstr ""
+
+#: ../include/mango_post_types.php:239 ../vc_extend/vc_map_wc.php:95
+msgid "Categories"
+msgstr ""
+
+#: ../include/mango_post_types.php:262 ../include/mango_post_types.php:263
+msgid "Block"
+msgstr ""
+
+#: ../include/mango_post_types.php:265
+msgid "Add New Block"
+msgstr ""
+
+#: ../include/mango_post_types.php:266
+msgid "Edit Block"
+msgstr ""
+
+#: ../include/mango_post_types.php:267
+msgid "New Block"
+msgstr ""
+
+#: ../include/mango_post_types.php:268
+msgid "View Block"
+msgstr ""
+
+#: ../include/mango_post_types.php:269
+msgid "Search Block"
+msgstr ""
+
+#: ../include/mango_post_types.php:270 ../include/mango_post_types.php:275
+msgid "No block found"
+msgstr ""
+
+#: ../include/mango_post_types.php:271
+msgid "No block member found in Trash"
+msgstr ""
+
+#: ../include/mango_post_types.php:272
+msgid "Parent Block:"
+msgstr ""
+
+#: ../include/mango_post_types.php:273
+msgid "Block "
+msgstr ""
+
+#: ../include/mango_post_types.php:274
+msgid "All Block "
+msgstr ""
+
+#: ../shortcodes.php:123 ../shortcodes.php:229 ../shortcodes.php:519
+#: ../shortcodes.php:602 ../widgets/widgets/woocommerce_product_widget.php:127
+#: ../widgets/widgets/woocommerce_product_widget.php:239
+msgid "Reviews"
+msgstr ""
+
+#: ../shortcodes.php:125 ../shortcodes.php:231 ../shortcodes.php:521
+#: ../shortcodes.php:604 ../widgets/widgets/woocommerce_product_widget.php:129
+#: ../widgets/widgets/woocommerce_product_widget.php:241
+msgid "Review"
+msgstr ""
+
+#: ../shortcodes.php:156
+msgid "Quick View"
+msgstr ""
+
+#: ../shortcodes.php:300
+msgid "Placeholder"
+msgstr ""
+
+#: ../shortcodes.php:731
+msgid "Read More"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:51
+msgid "Mango Section"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:64
+msgid "Background Color"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:71 ../vc_extend/vc_map.php:1212
+msgid "Background Image"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:78
+msgid "Background Style"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:81
+msgid "Cover"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:82
+msgid "Contain"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:83
+msgid "Initial"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:89
+msgid "Background Repeat"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:92
+msgid "No Repeat"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:93
+msgid "Repeat Y"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:94
+msgid "Repeat-X"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:95
+msgid "Repeat"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:101
+msgid "Parallax option"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:104 ../vc/mango_custom_row.php:114
+#: ../vc/vc-shortcodes.php:3 ../vc_extend/vc_map.php:100
+#: ../vc_extend/vc_map_wc.php:202
+msgid "Yes"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:105 ../vc/mango_custom_row.php:115
+#: ../vc/vc-shortcodes.php:4 ../vc_extend/vc_map.php:101
+msgid "No"
+msgstr ""
+
+#: ../vc/mango_custom_row.php:111
+msgid "Section Full Height"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:10 ../vc/vc-shortcodes.php:22
+msgid "Button"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:18
+msgid "Button Type"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:23
+msgid "link"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:29
+msgid "Button Size"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:32 ../vc/vc-shortcodes.php:44
+msgid "Extra Small"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:33 ../vc/vc-shortcodes.php:45
+msgid "Small"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:34 ../vc/vc-shortcodes.php:46
+msgid "Medium"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:35
+msgid "Learge"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:41
+msgid "Button Min Width"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:47
+msgid "Large"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:53
+msgid "Button Style"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:56
+msgid "White"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:57
+msgid "Theme Default"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:70
+msgid "Button Link"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:81
+msgid "Open Link In"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:84
+msgid "New Window"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:85
+msgid "Same Window"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:120
+msgid "Woo Product Slider"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:128 ../vc_extend/vc_map.php:383
+#: ../vc_extend/vc_map_wc.php:21
+msgid "Style"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:132 ../vc_extend/vc_map.php:387
+#: ../vc_extend/vc_map.php:1578 ../vc_extend/vc_map_wc.php:25
+#: ../widgets/widgets/mango_woocommerce_cat.php:135
+msgid "Style 1"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:133 ../vc_extend/vc_map.php:388
+#: ../vc_extend/vc_map.php:1579 ../vc_extend/vc_map_wc.php:26
+#: ../widgets/widgets/mango_woocommerce_cat.php:136
+msgid "Style 2"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:139
+msgid "How Much Product To Show"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:147 ../vc/vc-shortcodes.php:283
+#: ../vc_extend/vc_map.php:347
+msgid "Filter By Category"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:154 ../vc_extend/vc_map.php:331
+msgid "Show Per Column"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:157 ../vc/vc-shortcodes.php:176
+#: ../vc_extend/vc_map.php:339
+msgid "1 Per Column"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:158 ../vc/vc-shortcodes.php:177
+#: ../vc_extend/vc_map.php:338
+msgid "2 Per Column"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:159 ../vc/vc-shortcodes.php:178
+#: ../vc_extend/vc_map.php:337
+msgid "3 Per Column"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:160 ../vc/vc-shortcodes.php:179
+#: ../vc_extend/vc_map.php:336
+msgid "4 Per Column"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:161 ../vc/vc-shortcodes.php:180
+#: ../vc_extend/vc_map.php:335
+msgid "5 Per Column"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:162 ../vc/vc-shortcodes.php:181
+#: ../vc_extend/vc_map.php:334
+msgid "6 Per Column"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:173
+msgid "Show Per Column For Desktop"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:193
+msgid "Text Align"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:196
+msgid "Text Center"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:197
+msgid "Text Left"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:207
+msgid "Show Category With Products"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:214
+msgid "Show Rating With Products"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:221
+msgid "Select Type"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:224
+msgid "New Arrival"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:225
+msgid "Popular"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:226
+msgid "Featured"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:231
+msgid "Show Price With Products"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:242
+msgid "Mango Flipbook"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:260
+msgid "Select Title Alignment"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:263
+msgid "left"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:264
+msgid "center"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:265
+msgid "right"
+msgstr ""
+
+#: ../vc/vc-shortcodes.php:274
+msgid "Select Product Number"
+msgstr ""
+
+#: ../vc_extend/vc_extend.php:223
+msgid "Latest Post"
+msgstr ""
+
+#: ../vc_extend/vc_extend.php:264 ../widgets/widgets/mango_recent_post.php:55
+msgid "Posted"
+msgstr ""
+
+#: ../vc_extend/vc_extend.php:310
+msgid "View producents catalog"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:106
+msgid "Mango Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:116
+msgid "Categories Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:134 ../vc_extend/vc_map.php:205
+#: ../vc_extend/vc_map.php:518 ../vc_extend/vc_map.php:733
+#: ../vc_extend/vc_map.php:862 ../vc_extend/vc_map.php:921
+#: ../vc_extend/vc_map.php:1139
+msgid "Sub Title"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:153 ../vc_extend/vc_map.php:216
+#: ../vc_extend/vc_map.php:268 ../vc_extend/vc_map.php:578
+#: ../vc_extend/vc_map.php:640 ../vc_extend/vc_map.php:753
+#: ../vc_extend/vc_map.php:1149
+msgid "Text on the button."
+msgstr ""
+
+#: ../vc_extend/vc_map.php:159 ../vc_extend/vc_map.php:221
+#: ../vc_extend/vc_map.php:273 ../vc_extend/vc_map.php:583
+#: ../vc_extend/vc_map.php:645 ../vc_extend/vc_map.php:759
+#: ../vc_extend/vc_map.php:1154
+msgid "URL (Link)"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:161 ../vc_extend/vc_map.php:223
+#: ../vc_extend/vc_map.php:275 ../vc_extend/vc_map.php:585
+#: ../vc_extend/vc_map.php:647 ../vc_extend/vc_map.php:761
+#: ../vc_extend/vc_map.php:1156
+msgid "Button link."
+msgstr ""
+
+#: ../vc_extend/vc_map.php:169
+msgid "Mango Banner "
+msgstr ""
+
+#: ../vc_extend/vc_map.php:178 ../vc_extend/vc_map.php:845
+msgid "Banner Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:192
+msgid "Font Select"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:195
+msgid "Font Normal"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:196
+msgid "Font Medium"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:197
+msgid "Font Bold"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:199
+msgid "Select Grade"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:230
+msgid "Mango Blog"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:248
+msgid "Blog Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:285
+msgid "Mango Latest Posts"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:303
+msgid "Show more posts text"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:312
+msgid "Text Link"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:322
+msgid "No of Posts"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:325
+msgid "Left empty means all posts"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:356 ../widgets/widgets/mango_clients-widget.php:11
+msgid "Mango Clients"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:374
+msgid "No: Of Client Logo"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:386 ../vc_extend/vc_map.php:480
+#: ../vc_extend/vc_map_wc.php:24
+#: ../widgets/widgets/mango_widget_statistic.php:133
+#: ../widgets/widgets/mango_woocommerce_cat.php:133
+#: ../widgets/widgets/woocommerce_product_widget.php:289
+msgid "Select Style"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:399
+msgid "Mango Client Carousel"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:417
+msgid "Mango Testimonials"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:435
+msgid "No: Of Testimonials"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:446
+msgid "Mango Shipping"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:455
+msgid "Shipping Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:477
+msgid "Color Select"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:481
+msgid "Dark"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:482
+msgid "Custom"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:491
+msgid "Mango Category 1"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:500 ../vc_extend/vc_map.php:544
+msgid "Category Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:535
+msgid "Mango Category 2"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:552
+msgid "Title 1"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:560
+msgid "Title 2"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:568 ../vc_extend/vc_map.php:620
+msgid "Price"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:594
+msgid "Mango Banner Long"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:603 ../vc_extend/vc_map.php:664
+msgid "Long Banner Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:655
+msgid "Mango Promoted Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:692 ../vc_extend/vc_map.php:779
+#: ../vc_extend/vc_map.php:994 ../vc_extend/vc_map.php:1068
+#: ../vc_extend/vc_map.php:1605 ../widgets/widgets/ad_banner_wc.php:96
+msgid "Select Category"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:695 ../vc_extend/vc_map.php:782
+#: ../vc_extend/vc_map.php:997 ../vc_extend/vc_map.php:1071
+msgid "Select category"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:696 ../vc_extend/vc_map.php:783
+#: ../vc_extend/vc_map.php:998 ../vc_extend/vc_map.php:1072
+#: ../vc_extend/vc_map.php:1609
+msgid "Select Post category"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:697 ../vc_extend/vc_map.php:784
+#: ../vc_extend/vc_map.php:999 ../vc_extend/vc_map.php:1073
+#: ../vc_extend/vc_map.php:1610
+msgid "Select Woocommerce Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:698 ../vc_extend/vc_map.php:785
+#: ../vc_extend/vc_map.php:1000 ../vc_extend/vc_map.php:1074
+#: ../vc_extend/vc_map.php:1611
+msgid "Select FAQ'S Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:708
+msgid "Mango Categories List"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:717
+msgid "Categories List Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:742
+msgid "Big Title "
+msgstr ""
+
+#: ../vc_extend/vc_map.php:793
+msgid "Woocommerce Parent Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:807
+msgid "Post Parent Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:821
+msgid "Faqs Parent Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:836
+msgid "Mango Banner Vine"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:879
+msgid "Url (Link)"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:888
+msgid "Mango Discount Box"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:906 ../widgets/widgets/ad_banner.php:39
+msgid "Title Color"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:909
+msgid "Theme Option"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:910 ../vc_extend/vc_map.php:948
+#: ../vc_extend/vc_map.php:1030 ../vc_extend/vc_map.php:1103
+msgid "Select Color"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:911
+msgid "Warning"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:912
+msgid "Primary"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:913
+msgid "Success"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:937 ../vc_extend/vc_map.php:1018
+#: ../vc_extend/vc_map.php:1092
+msgid "Badge Text"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:945 ../vc_extend/vc_map.php:1027
+#: ../vc_extend/vc_map.php:1100
+msgid "Badge Color"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:949 ../vc_extend/vc_map.php:1031
+#: ../vc_extend/vc_map.php:1104
+msgid "Yellow"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:950 ../vc_extend/vc_map.php:1032
+#: ../vc_extend/vc_map.php:1105
+msgid "Red"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:951 ../vc_extend/vc_map.php:1033
+#: ../vc_extend/vc_map.php:1106
+msgid "Blue"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:960
+msgid "Mango Category Box"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:969
+msgid "Category Box Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1042
+msgid "Mango Vertical Category "
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1051
+msgid "Vertical  Category  Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1115
+msgid "Mango Vertical Banner"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1124
+msgid "Mango Vertical Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1164
+msgid "Mango Newsletter"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1189 ../vc_extend/vc_map.php:1192
+#: ../vc_extend/vc_map.php:1237 ../vc_extend/vc_map.php:1240
+#: ../vc_extend/vc_map.php:1275 ../vc_extend/vc_map.php:1278
+#: ../vc_extend/vc_map.php:1312 ../vc_extend/vc_map.php:1315
+msgid "Select Form"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1193 ../vc_extend/vc_map.php:1241
+msgid "Newletter"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1203
+msgid "Mango Store"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1249
+msgid "Mango Login"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1279
+msgid "Login"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1287
+msgid "Mango Registration Form"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1316
+msgid "Registration"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1325
+msgid "Mango Bootstrap Slider"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1335
+msgid "Extra class name"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1337
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1349
+msgid "Add Slider"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1360
+msgid "Slider Image"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1368
+msgid "Caption"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1377
+msgid "Mango Tooltips Button"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1394
+msgid "Select Button"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1397
+msgid "Button Black"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1398
+msgid "Button Red"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1406
+msgid "Data  Content"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1414
+msgid "Button Placement"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1417 ../vc_extend/vc_map.php:1462
+#: ../vc_extend/vc_map.php:1577 ../vc_extend/vc_map.php:1608
+msgid "Select One"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1418 ../vc_extend/vc_map.php:1463
+msgid "Top"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1419 ../vc_extend/vc_map.php:1464
+msgid "Left"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1420 ../vc_extend/vc_map.php:1465
+msgid "Bottom"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1421 ../vc_extend/vc_map.php:1466
+msgid "Right"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1433
+msgid "Mango Text Tooltip"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1442
+msgid "Content"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1450
+msgid "Text for tooltip"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1459
+msgid "Select Position"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1500
+msgid "Mango Portfolio"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1510
+msgid "Number Of Portfolio Show"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1520
+msgid "Categoriees "
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1530
+msgid "Hide Title"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1533 ../vc_extend/vc_map.php:1544
+#: ../vc_extend/vc_map.php:1555 ../vc_extend/vc_map.php:1566
+msgid "YES"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1541
+msgid "Hide Category"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1552
+msgid "Hide Description"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1563
+msgid "Hide Read More Link"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1574
+msgid "Select Styles"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1580 ../vc_extend/vc_map_wc.php:27
+#: ../widgets/widgets/mango_woocommerce_cat.php:137
+msgid "Style 3"
+msgstr ""
+
+#: ../vc_extend/vc_map.php:1588
+msgid "Mango Simple Category "
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:4
+msgid "Mango Woocommerce Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:35
+msgid "Mango Woocommerce Categories Numbers"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:70
+msgid "Mango Categoreies Product"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:79
+msgid "Link Text"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:103
+msgid "Mango Products By Type"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:130
+msgid "Select Product"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:133
+#: ../widgets/widgets/woocommerce_product_widget.php:338
+msgid "New Arrivals"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:134
+msgid "Featured Product"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:135
+msgid "Popular Product"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:143
+msgid "Select Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:172
+msgid "Mango Products List/Grid"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:182
+msgid "Select Grid/List Style"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:185 ../widgets/widgets/ad_banner.php:42
+msgid "Default"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:186
+msgid "Grid Style 1"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:187
+msgid "Grid Style 2"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:188
+msgid "Grid Style 3"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:189
+msgid "Grid Style 4"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:190
+msgid "List"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:191
+msgid "List Right Aligned"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:199
+msgid "Use Isotopes"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:211
+msgid "Columns"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:227
+msgid "Products By:"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:230
+msgid "Filter Products"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:231
+msgid "Select Specific Products"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:240
+msgid "Items Per Page"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:250
+msgid "Order By"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:253
+msgid "Latest Products"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:254
+msgid "Top Rated Products"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:255
+msgid "Best Selling Products"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:256
+#: ../widgets/widgets/woocommerce_product_widget.php:340
+msgid "Featured Products"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:257
+msgid "Products On Sale"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:258
+msgid "Random Products"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:267
+msgid "Order"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:270
+msgid "Descending"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:271
+msgid "Ascending"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:279 ../vc_extend/vc_map_wc.php:327
+msgid "Filter By product Categories"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:289
+msgid "Select Products To Display"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:303
+msgid "Mango Products Item Grid"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:314
+msgid "Item Thumbnail Size"
+msgstr ""
+
+#: ../vc_extend/vc_map_wc.php:338
+msgid "Product Show Numbers"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:7
+msgid "Mango Display Banner"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:8
+msgid "Mango Banner"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:32 ../widgets/widgets/ad_banner_wc.php:30
+#: ../widgets/widgets/mango_video_widget.php:24
+msgid "Widget Title"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:43
+msgid "warning"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:44
+msgid "primary"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:45
+msgid "success"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:57
+msgid "Sub-Title"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:64
+msgid "Badge: (Max:5 Characters Allowed)"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:78 ../widgets/widgets/ad_banner_wc.php:41
+#: ../widgets/widgets/information_widget.php:94
+#: ../widgets/widgets/mango_product_banner.php:83
+msgid "URL"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:90 ../widgets/widgets/ad_banner_wc.php:57
+#: ../widgets/widgets/contact.php:158
+#: ../widgets/widgets/mango_clients-widget.php:114
+msgid "URL Open in new tab"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner.php:95
+#: ../widgets/widgets/information_widget.php:68
+#: ../widgets/widgets/mango_product_banner.php:65
+msgid "Image"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner_wc.php:8
+msgid "Mango WC Banner"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner_wc.php:9
+msgid "Mango Woocommerce Banner"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner_wc.php:62
+msgid "URL Text"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner_wc.php:91
+msgid "Please select category to show"
+msgstr ""
+
+#: ../widgets/widgets/ad_banner_wc.php:144
+msgid "No woocommerce category found "
+msgstr ""
+
+#: ../widgets/widgets/contact.php:18
+msgid "Mango: Contact"
+msgstr ""
+
+#: ../widgets/widgets/contact.php:19
+msgid "Add contact mango widget"
+msgstr ""
+
+#: ../widgets/widgets/contact.php:59 ../widgets/widgets/contact.php:118
+msgid "Phone"
+msgstr ""
+
+#: ../widgets/widgets/contact.php:104
+msgid "Upload Footer Logo"
+msgstr ""
+
+#: ../widgets/widgets/contact.php:109
+msgid "Address"
+msgstr ""
+
+#: ../widgets/widgets/contact.php:144
+msgid "Link"
+msgstr ""
+
+#: ../widgets/widgets/information_widget.php:11
+msgid "Mango: Information"
+msgstr ""
+
+#: ../widgets/widgets/information_widget.php:12
+msgid "Add information."
+msgstr ""
+
+#: ../widgets/widgets/information_widget.php:85
+#: ../widgets/widgets/mango_product_banner.php:74
+msgid "Text URL"
+msgstr ""
+
+#: ../widgets/widgets/information_widget.php:108
+#: ../widgets/widgets/mango_product_banner.php:98
+msgid "URL Open in New Tab"
+msgstr ""
+
+#: ../widgets/widgets/mango_clients-widget.php:12
+msgid "Add Clients"
+msgstr ""
+
+#: ../widgets/widgets/mango_clients-widget.php:58
+msgid "No Clients Found"
+msgstr ""
+
+#: ../widgets/widgets/mango_clients-widget.php:76
+msgid "Popular producents"
+msgstr ""
+
+#: ../widgets/widgets/mango_clients-widget.php:86
+#: ../widgets/widgets/mango_testimonials-widget.php:67
+msgid "Number of items to show:"
+msgstr ""
+
+#: ../widgets/widgets/mango_clients-widget.php:93
+msgid "URL text:"
+msgstr ""
+
+#: ../widgets/widgets/mango_clients-widget.php:100
+msgid "URL:"
+msgstr ""
+
+#: ../widgets/widgets/mango_product_banner.php:12
+msgid "Mango: Product Banner"
+msgstr ""
+
+#: ../widgets/widgets/mango_product_banner.php:13
+msgid "Add Product Banner."
+msgstr ""
+
+#: ../widgets/widgets/mango_recent_post.php:12
+msgid "Mango: Recent Post"
+msgstr ""
+
+#: ../widgets/widgets/mango_recent_post.php:13
+msgid "Recent Post."
+msgstr ""
+
+#: ../widgets/widgets/mango_recent_post.php:76
+msgid "Recent Posts"
+msgstr ""
+
+#: ../widgets/widgets/mango_recent_post.php:86
+msgid "Number of Post show:"
+msgstr ""
+
+#: ../widgets/widgets/mango_related_product.php:11
+msgid "Mango: Related Product"
+msgstr ""
+
+#: ../widgets/widgets/mango_related_product.php:12
+msgid "Add Related Product."
+msgstr ""
+
+#: ../widgets/widgets/mango_subscribe_widget.php:20
+msgid "Mango - Subscribe Form"
+msgstr ""
+
+#: ../widgets/widgets/mango_subscribe_widget.php:21
+msgid "Displays your custom MailChimp for WordPress sign-up form"
+msgstr ""
+
+#: ../widgets/widgets/mango_subscribe_widget.php:42
+msgid "Newsletter"
+msgstr ""
+
+#: ../widgets/widgets/mango_subscribe_widget.php:46
+#: ../widgets/widgets/mango_widget_social.php:185
+#: ../widgets/widgets/mango_widget_statistic.php:126
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widgets/mango_subscribe_widget.php:50
+msgid "Form Description"
+msgstr ""
+
+#: ../widgets/widgets/mango_subscribe_widget.php:54
+#, php-format
+msgid ""
+"You can edit your sign-up form in the %sMailChimp for WordPress form settings"
+"%s."
+msgstr ""
+
+#: ../widgets/widgets/mango_testimonials-widget.php:6
+#: ../widgets/widgets/mango_testimonials-widget.php:7
+msgid "Recent Testimonials"
+msgstr ""
+
+#: ../widgets/widgets/mango_testimonials-widget.php:52
+msgid "No Testimonials Found"
+msgstr ""
+
+#: ../widgets/widgets/mango_testimonials-widget.php:57
+msgid "Latest Review"
+msgstr ""
+
+#: ../widgets/widgets/mango_testimonials-widget.php:57
+msgid "Read More Testimonials"
+msgstr ""
+
+#: ../widgets/widgets/mango_video_widget.php:7
+msgid "Mango: Video Widget "
+msgstr ""
+
+#: ../widgets/widgets/mango_video_widget.php:8
+msgid "Mango Video Widget"
+msgstr ""
+
+#: ../widgets/widgets/mango_video_widget.php:31
+msgid "Video Url"
+msgstr ""
+
+#: ../widgets/widgets/mango_video_widget.php:38
+msgid "Select Video Type"
+msgstr ""
+
+#: ../widgets/widgets/mango_video_widget.php:41
+msgid "Youtube"
+msgstr ""
+
+#: ../widgets/widgets/mango_video_widget.php:42
+msgid "Vimeo"
+msgstr ""
+
+#: ../widgets/widgets/mango_video_widget.php:47
+msgid "Video Description"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:20
+msgid "A custom widget to display the social network icons."
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:23
+msgid "Mango - Social Connect"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:190
+msgid "Rss URL:"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:194
+msgid "Email:"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:198
+msgid "Twitter :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:202
+msgid "Facebook :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:206
+msgid "Google Plus :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:210
+msgid "Youtube :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:215
+msgid "Flickr :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:219
+msgid "Linkedin :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:223
+msgid "Pinterest :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:228
+msgid "Dribbble :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:232
+msgid "Github :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:236
+msgid "Last FM :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:241
+msgid "Vimeo :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:245
+msgid "Tumblr :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:249
+msgid "Instagram :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:253
+msgid "Soundcloud :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:257
+msgid "Behance :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_social.php:261
+msgid "Deviantart :"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_statistic.php:16
+msgid "Mango - Statistic Product and Users"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_statistic.php:17
+msgid "Display statistic product and users"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_statistic.php:44
+#: ../widgets/widgets/mango_widget_statistic.php:48
+msgid "Marketplace Members"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_statistic.php:71
+#: ../widgets/widgets/mango_widget_statistic.php:75
+msgid "Marketplace Sellers"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_statistic.php:89
+msgid "Marketplace Items"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_statistic.php:96
+msgid "Posts"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_statistic.php:121
+msgid "Statistics"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_statistic.php:135
+msgid "Style Sidebar"
+msgstr ""
+
+#: ../widgets/widgets/mango_widget_statistic.php:136
+msgid "Style Footer "
+msgstr ""
+
+#: ../widgets/widgets/mango_woocommerce_cat.php:10
+msgid "Mango: Woocommerce Categories"
+msgstr ""
+
+#: ../widgets/widgets/mango_woocommerce_cat.php:11
+msgid "Add Woocommerce Categories."
+msgstr ""
+
+#: ../widgets/widgets/woocommerce_product_widget.php:13
+msgid "Mango: Woocommerce Products"
+msgstr ""
+
+#: ../widgets/widgets/woocommerce_product_widget.php:14
+msgid "Woocomemrce Products."
+msgstr ""
+
+#: ../widgets/widgets/woocommerce_product_widget.php:278
+msgid "TItle"
+msgstr ""
+
+#: ../widgets/widgets/woocommerce_product_widget.php:282
+msgid "Number of Products to show:"
+msgstr ""
+
+#: ../widgets/widgets/woocommerce_product_widget.php:291
+msgid "Style Footer Top"
+msgstr ""
+
+#: ../widgets/widgets/woocommerce_product_widget.php:292
+msgid "Style Vendor Sidebar"
+msgstr ""
+
+#: ../widgets/widgets/woocommerce_product_widget.php:300
+msgid "Add Category:"
+msgstr ""
+
+#: ../widgets/widgets/woocommerce_product_widget.php:336
+msgid "Select Product Type"
+msgstr ""
+
+#: ../widgets/widgets/woocommerce_product_widget.php:339
+msgid "Popular Products"
+msgstr ""

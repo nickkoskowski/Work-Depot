@@ -1,0 +1,1114 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Groups"
+msgstr ""
+
+#. Short description.
+msgid "Groups is an efficient and powerful solution, providing group-based user membership management, group-based capabilities and content access control."
+msgstr ""
+
+#. Screenshot description.
+msgid "Groups - this is where you add and remove groups and assign capabilities to groups."
+msgstr ""
+
+#. Screenshot description.
+msgid "Capabilities - here you get an overview of the capabilities that are defined and you can add and remove capabilities as well."
+msgstr ""
+
+#. Screenshot description.
+msgid "Users - group membership is managed from the standard Users admin view."
+msgstr ""
+
+#. Screenshot description.
+msgid "Access restrictions meta box - on pages and posts (or custom content types) you can restrict access to users who are part of a group with capabilities."
+msgstr ""
+
+#. Screenshot description.
+msgid "Usage of the [groups_member] and [groups_non_member] shortcodes to limit visibility of content to users who are members of a group or users who are not members of a group. Multiple comma-separated groups can be specified."
+msgstr ""
+
+#. Screenshot description.
+msgid "Usage of the [groups_can] and [groups_can_not] shortcodes. Limits visibility of enclosed content to those users who have the capability or those who do not. Multiple capabilities can be given."
+msgstr ""
+
+#. Screenshot description.
+msgid "Options - you can adjust the plugin's settings here."
+msgstr ""
+
+#. Screenshot description.
+msgid "More options."
+msgstr ""
+
+#. Found in description header.
+msgid "Documentation"
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "User groups"
+msgstr ""
+
+#. Found in description header.
+msgid "Groups hierarchy"
+msgstr ""
+
+#. Found in description header.
+msgid "Group capabilities"
+msgstr ""
+
+#. Found in description header.
+msgid "Access control"
+msgstr ""
+
+#. Found in description header.
+msgid "Easy user interface"
+msgstr ""
+
+#. Found in description header.
+msgid "Sensible options"
+msgstr ""
+
+#. Found in description header.
+msgid "Access Control"
+msgstr ""
+
+#. Found in description header.
+msgid "Framework"
+msgstr ""
+
+#. Found in description header.
+msgid "Multisite"
+msgstr ""
+
+#. Found in description header.
+msgid "Feedback"
+msgstr ""
+
+#. Found in description header.
+msgid "Twitter"
+msgstr ""
+
+#. Found in description header.
+msgid "Translations"
+msgstr ""
+
+#. Found in description list item.
+msgid "Supports an unlimited number of groups"
+msgstr ""
+
+#. Found in description list item.
+msgid "Provides a Registered group which is automatically maintained"
+msgstr ""
+
+#. Found in description list item.
+msgid "Users can be assigned to any group"
+msgstr ""
+
+#. Found in description list item.
+msgid "Users are added automatically to the Registered group"
+msgstr ""
+
+#. Found in description list item.
+msgid "Supports group hierarchies with capability inheritance"
+msgstr ""
+
+#. Found in description list item.
+msgid "Integrates standard WordPress capabilities which can be assigned to groups and users"
+msgstr ""
+
+#. Found in description list item.
+msgid "Supports custom capabilities: allows to define new capabilities for usage in plugins and web applications"
+msgstr ""
+
+#. Found in description list item.
+msgid "Users inherit capabilities of the groups they belong to"
+msgstr ""
+
+#. Found in description list item.
+msgid "Groups inherit capabilities of their parent groups"
+msgstr ""
+
+#. Found in description list item.
+msgid "Built-in access control that allows to restrict access to posts, pages and custom content types to specific groups and users only"
+msgstr ""
+
+#. Found in description list item.
+msgid "integrates nicely with the standard WordPress Users menu"
+msgstr ""
+
+#. Found in description list item.
+msgid "provides an intuitive Groups menu"
+msgstr ""
+
+#. Found in description list item.
+msgid "conceptually clean views showing the essentials"
+msgstr ""
+
+#. Found in description list item.
+msgid "quick filters"
+msgstr ""
+
+#. Found in description list item.
+msgid "bulk-actions where needed, for example apply capabilities to groups, bulk-add users to groups, bulk-remove users from groups"
+msgstr ""
+
+#. Found in description list item.
+msgid "administrator overrides can be turned off"
+msgstr ""
+
+#. Found in description list item.
+msgid "optional tree view for groups can be shown only when needed"
+msgstr ""
+
+#. Found in description list item.
+msgid "provides its own set of permissions"
+msgstr ""
+
+#. Found in description list item.
+msgid "cleans up after testing with a \"delete all plugin data\" option "
+msgstr ""
+
+#. Found in description list item.
+msgid "Solid and sound data-model with a complete API that allows developers to create group-oriented web applications and plugins"
+msgstr ""
+
+#. Found in description list item.
+msgid "All features are supported independently for each blog in multisite installations"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Groups is designed as an efficient, powerful and flexible solution for group-oriented membership and content access control."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "It provides group-based user membership management, group-based capabilities and access control for content, built on solid principles."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Groups is light-weight and offers an easy user interface, while it acts as a framework and integrates standard WordPress capabilities and application-specific capabilities along with an extensive API."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Enhanced functionality is available via official <a href=\"http://www.itthinx.com/plugins/groups/\">extensions</a> for Groups."
+msgstr ""
+
+#. Found in description paragraph, faq paragraph.
+msgid "The official documentation is located at the <a href=\"http://docs.itthinx.com/document/groups/\">Groups documentation pages</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Access to posts and pages can be restricted by capability."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Any capability can be used to restrict access, including new capabilities."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"If access to a post is restricted, only users who belong to a group with that\n"
+"capability may access the post."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Groups defines the groups_read_post capability by default, which can be\n"
+"used to restrict access to certain posts or pages to groups\n"
+"with that capability only. Any other capability (including new ones) can be\n"
+"used to limit access as well."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Feedback is welcome!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you need help, have problems, want to leave feedback or want to provide constructive criticism, please do so here at the <a href=\"http://www.itthinx.com/plugins/groups/\">Groups plugin page</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Please try to solve problems there before you rate this plugin or say it doesn't work. There goes a <em>lot</em> of work into providing you with free quality plugins! Please appreciate that and help with your feedback. Thanks!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://twitter.com/itthinx\">Follow @itthinx on Twitter</a> for updates on this and other plugins."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Dutch translation by <a href=\"http://presis.nl\">Carsten Alsemgeest</a>,\n"
+"French translation by <a href=\"http://www.pheeric.com\">Stéphane Passedouet</a>,\n"
+"German translation by <a href=\"http://www.itthinx.com\">itthinx</a>,\n"
+"Lithuanian translation by <a href=\"http://www.Host1Free.com\">Vincent G</a>,\n"
+"Spanish translation by <a href=\"http://www.lamadjinpa.es\">Juan Amor</a>,\n"
+"Swedish translation by <a href=\"http://adevade.com\">Andréas Lundgren</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Many thanks for your help!"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload or extract the <code>groups</code> folder to your site's <code>/wp-content/plugins/</code> directory. You can also use the <em>Add new</em> option found in the <em>Plugins</em> menu in WordPress.  "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enable the plugin from the <em>Plugins</em> menu in WordPress."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 4.4 compatible."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated selectize.js to 0.12.1 (standalone)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a representation issue for the lower group selector on the Users screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the page headings to use h1 instead of h2."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the is_member method to Groups_User."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the footer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added own cache encapsulation to guard against flaws in outdated cache implementations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new user group property to obtain hierarchical groups."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved user properties to use own caching."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed media field filters wrongly declared as actions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed the version comparison operation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed potential XSS vulnerabilities related to the unescaped use of the $_SERVER['REQUEST_URI'] in some forms."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 4.3.1 compatibility tested."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add-ons section added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 4.3 compatibility tested."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the menu position constant (string instead of number)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed translation of the Groups menu title (related to a consistent appearance and would also be affected by a a core bug)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed padding for the header checkbox on the Groups and Capabilities screens."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes an issue with map_meta_cap filtering where no valid post ID is provided."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the French translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the [groups_login] shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the [groups_logout] shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the German translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the Spanish translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the groups_deleted_capability_capability action."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue with deleted capabilities restricting access to posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed cache entries for capabilities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the German translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the Groups menu position."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed empty strings from translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added administrative links to the plugin entry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the Dutch translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a comparison method for groups and capabilities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the documentation link in the help content."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now showing inherited capabilities for groups."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ABSPATH check to plugin main file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved the UI rendering cancel links as buttons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved the UI adding some space on capability selector box."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a pagination issue when the page number is indicated on the Groups or Capabilities screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Please <strong>MAKE A BACKUP</strong> of your site and database PRIOR to updating."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 4.2 compatible."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adopted a more flexible index size on the capability row of the capability table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reduced the index size on the capability row of the capability table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Due to changes in versions 1.4.14 and 1.4.15, it's important to <strong>MAKE A BACKUP</strong> of the site &amp; database, test the site, extensions &amp; theme PRIOR to updating."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now not using Groups' the_posts filter by default as results are already filtered by Groups' posts_where filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the groups_filter_the_posts filter which can be used to 'reactivate' Groups' the_posts filter where needed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added caching for capabilities read by capability name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added caching for groups read by name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added caching for results obtained in Groups_Post_Access::user_can_read_post(...)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the groups_post_access_user_can_read_post filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Admin override is disabled by default (existing installs need to disable manually if options were saved)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Swedish translation by <a href=\"http://adevade.com\">Andréas Lundgren</a> added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 4.1 compatible."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes missing selectize Javascript for the media uploader's attachment popup."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 4.0 compatible."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: code documentation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.9 compatibility checked"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed some filter usage with prepare() for 3.9 nags."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed unmatched tags in the tree view."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Tree view doesn't appear/disappear in menu directly after setting the option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Feedback when options have been saved."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: UI size adjustments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: New API methods Groups_Group::get_group_ids() and Groups_Group::get_groups()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: groups and capabilities table cell titles and ellipsis added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: A closing tag in the group list on the user profile."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Help wording."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Capabilities in the Access Restrictions column are sorted for more consistent display."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Reduced ID, Edit and Remove column widths on Groups and Capabilities screens."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Stripping added slashes from groups and capabilities displayed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Feedback when groups and capabilities are created, updated or removed in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: group and exclude_group attributes for the [groups_user_groups] shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Replaced remnant CR LF line-endings in code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Handling updates to a capability when the capability field is empty."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Handling updates to a group when the name field is empty."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Don't allow to use the name of another existing group when updating a group."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Don't allow to use the name of another existing capability when updating one."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security improvement: plugin files accessed directly exit"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Don't interfere with output when there is no post (the_content and get_the_excerpt filters)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security fix : Certain capabilities could be granted to users instead of being denied with a change introduced in version 1.4.5. Roles with negated capabilities would effectively grant these capabilities to the user."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Using a WordPress API function get_post_type_capabilities() instead of semi-hardcoded capabilities for access restriction checks (affects CPTs)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Taking role-based capabilities into account when creating cache entries for the Groups_User object. The new groups_user_add_role_capabilities filter allows to modify this new behaviour by returning false."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: groups_user_add_role_capabilities filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.8 compatibility checked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Access restriction options per post type when none is checked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Bulk editing (add/remove) of post access restriction capabilities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: A typo in the Access Restriction column's tooltip text."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Validation of access restriction capabilities when saved on options admin screen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Users must now have the groups_access capability to be able to use the access restriction meta box on posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Access restriction capabilities shown for enabled post types on overview screens."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.7.1 compatibility checked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed: Error caused by typo when obtaining group_ids_deep property for a Groups_User."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Replaced some __get calls by properties."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Filter by access restriction capabilities for enabled post types on overview screens."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Better group-assignment on the Users admin screen, allows to assign/remove multiple users to/from multiple groups along with a better UI."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed: Groups requires at least WordPress 3.5 now, although this only affects the group-action functionality on the Users admin screen, the restrict_manage_users action which is now used to render the UI elements needed, was introduced with WordPress 3.5."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Extensions box in Options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Groups section in user profile with added description."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Groups &gt; Groups &gt; Add / Edit group screens, allow to assign/modify the capabilities assigned to the group."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Groups &gt; Groups screen, allow to assign/remove multiple capabilities to multiple groups."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Groups &gt; Groups screen, allow to delete multiple groups as a bulk action."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: Groups &gt; Capabilities screen, allow to delete multiple capabilities as a bulk action."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Groups &gt; Options screen, using searchable select instead of checkboxes to enable capabilities for access restriction."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: In user profiles, using a searchable select to modify group assignments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Reduced the footer text in groups admin sections."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved: Admin CSS to make better use of screen real-estate and more coherent appearance with the new UI additions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the option to quick-create group and capability within the access restriction meta-box."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the option to show groups granting access per capability in the access restriction meta-box."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added the quick-create field to the access restrictions meta-box which allows to create group &amp; capability on the fly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added <a href=\"http://brianreavis.github.io/selectize.js/\">Selectize.js</a> and using it in the access restrictions meta-box instead of checkboxes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved the Groups &gt; Options screen using a Selectize-based selection of capabilities that are enabled for access restriction."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed duplicate postmeta created when saving access restriction capabilities for a post."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "[groups_can] and [groups_can_not] now accept multiple capabilities separated by comma."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.6.1 compatibility checked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.6 compatibility checked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed table appearance for capabilities and groups admin sections when there are no results."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Access restriction capabilities must be disjunctive."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added: List of groups can be shown in user profiles on the back end and group assignments can be edited by group admins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Groups shown for users on the Users screen are sorted by name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Under certain conditions with caching involved, capabilities were not correctly retrieved. Thanks to Jason Kadlec who <a href=\"http://wordpress.org/support/topic/nasty-error-with-latest-version\">reported the issue</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Related to the above fix, improved the way how *_deep properties are retrieved on cache misses, resulting in slightly better performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added a missing text domain."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added help icon when user has no access restriction capabilities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Redirecting after group action in users screen to end up with a clean admin URL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: added filter hooked on posts_where motivated by pagination issues - the posts must be filtered before the totals are calculated in WP_Query::get_posts()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: modified the signature of the the_posts filter method in Groups_Post_Access to receive the $query by reference"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: a substantial improvement on overall performance is achieved by caching user capabilities and groups"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: access restriction boxes showing capabilities that the user should not be allowed to set to restrict posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: resolve user-capability when a capability is deleted"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: using substitute wp_cache_switch_to_blog instead of deprecated function wp_cache_reset when available (from 3.5.0)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: don't show access restriction meta box on attachments, the option is added with the attachment fields (3.5 uses common post edit screen but save_post isn't triggered on attachments)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: limiting choice of access restrictions to those the current user has"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: restrict access to edit or delete posts based on the post's access restrictions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: added option to refresh capabilities"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: replaced use of get_user_by() (memory leaks on large user sets) with query &amp; added batch limit when adding users to Registered group on activation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: missing argument for meta box when saving a post"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Groups conflicting with other plugins adding columns to the Users screen (in the manage_users_custom_column filter) thanks to <a href=\"http://www.transpontine.com\">Erwin</a> who spotted this :)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced call to get_users() with query to avoid memory errors on activation with large users bases."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Provided a default value for a method in Groups_Access_Meta_Boxes to avoid issues with other plugins or themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed out of memory issues with large user bases on Users &gt; All Users page. Thanks to <a href=\"http://www.jasonglaspey.com\">Jason Glaspey</a> who spotted the issue :)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP 3.5 cosmetics"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP 3.5 compatibility http://core.trac.wordpress.org/ticket/22262"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed capabilities cannot be added or removed from groups in localized installations"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added users property to Groups_Group"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved tests out of core folder"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed missing $wpdb in Groups_Group's getter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added group filters on users admin section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added feature that allows to show access restrictions depending on post type"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for access restrictions on Media"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue, removed access restrictions offered on Links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Spanish translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor improvements on Options screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added show=\"users\" option to [groups_group_info] shortcode which lists user logins for users in a group - rather experimental as it doesn't offer any sorting, pagination, linking or other options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New shortcode [groups_join group=\"...\"] lets a user join the given group "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New shortcode [groups_leave group=\"...\"] lets a user leave the given group"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Revised styles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress 3.4 compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dropping support for WordPress &lt; 3.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Help uncluttered."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reduced files loaded on non-admin pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Lithuanian translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed help to use tabs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Access control is no longer restricted to the groups_read_post capability: now any capability can be used to limit access to posts so that different groups can be granted access to different sets of posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added shortcode &amp; API functions [groups_user_group] / [groups_user_groups] that allows to show the list of groups the current user or a specific user belongs to"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added shortcode &amp; API functions [groups_groups]to show the site's list of groups"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Class comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reduced plugin admin footer."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added safety &amp; warning to test page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested on WP 3.3.2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multisite: Fixed (removed) conditions that would only make Groups act on public and non-mature sites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multisite: Adding add/remove to group only on sites', not network users admin screen"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multisite: Added constraint in user_register hook checking if the user is a member of the blog"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Groups menu to network admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to delete plugin data for all sites on multisite installations; removed option for individual sites"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved activation and deactivation for network installs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increases column sizes on capabilities table and fixes cut-off capabilities delete_published_pages and delete_published_posts"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Taking into account blog charset/collation on newly created tables."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Groups shortcodes now allow nesting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed admin override option not being updated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DB tables checked individually to create (motivated by case of all but capability table not being created)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Groups wouldn't activate due to a fatal error on WP &lt;= 3.2.1 : is_user_member_of_blog() is defined in ms-functions.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added [groups_group_info] shortcode "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased length of capability.capability, capability.class, capability.object columns to support long capabilities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved admin CSS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "This is the first public beta release."
+msgstr ""
+
+#. Found in faq header.
+msgid "Where is the documentation?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I have a question, where do I ask?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I want Advanced and Premium members, where the Premium members can access everything that Advanced members can access. How can I do that?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I limit access to posts so that users in group A can not read the same as those in group B and vice-versa?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Are access restrictions for Custom Post Types supported?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I show groups that users belong to on their profile page in the admin section?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Developers aka What about Groups' API?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Go to <em>Groups &gt; Capabilities</em> and define two new capabilities, let's call them <em>advanced</em> and <em>premium</em>."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Go to <em>Groups &gt; Groups</em> and define two new  groups, let's call them <em>Advanced Members</em> and <em>Premium Members</em> - select <em>Advanced Members</em> as the <em>Parent</em> for the <em>Premium Members</em> group."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Assign the <em>advanced</em> capability to the <em>Advanced Members</em> group and the <em>premium</em> capability to the <em>Premium Members</em> group."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Go to <em>Groups &gt; Options</em> and tick the checkboxes for <em>advanced</em> and <em>premium</em> under <em>Access restrictions</em> and hit the <em>Save</em> button at the end of the page."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Now create an example post that only members of the <em>Advanced Members</em> group should be able to see and tick the <em>advanced</em> checkbox under <em>Access restrictions</em>."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Create another post for <em>Premium Members</em> and tick the <em>premium</em> checkbox for that post."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Assign test users to both groups, log in as each user in turn and see which posts will be accessible. "
+msgstr ""
+
+#. Found in faq list item.
+msgid "Go to <em>Groups &gt; Capabilities</em> and define two new capabilities, call them <em>green</em> and <em>red</em>."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Go to <em>Groups &gt; Groups</em> and define two new  groups, let's call them <em>Green Members</em> and <em>Red Members</em>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Assign the <em>green</em> capability to the <em>Green Members</em> group and the <em>red</em> capability to the <em>Red Members</em> group."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Go to <em>Groups &gt; Options</em> and tick the checkboxes for <em>green</em> and <em>red</em> under <em>Access restrictions</em> and hit the <em>Save</em> button at the end of the page."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Now create an example post that only members of the <em>Green Members</em> group should be able to see and tick the <em>green</em> checkbox under <em>Access restrictions</em>."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Create another post for <em>Red Members</em> and tick the <em>red</em> checkbox for that post."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Assign a test user to any of the above groups, log in as that user and the post will be accessible."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For questions directly related to Groups, you can leave a comment at the <a href=\"http://www.itthinx.com/plugins/groups/\">Groups plugin page</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Example: Advanced and Premium members"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Example: Green and Red members"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes. Access restrictions can be turned on or off for specific CPTs on the <em>Groups &gt; Options</em> page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Go to <em>Groups &gt; Options</em> and enable the option under <em>User profiles</em>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The Groups plugin provides an extensive framework to handle memberships, group-based capabilities and access control."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The API documentation is available here: <a href=\"http://api.itthinx.com/groups\">Groups API</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Also refer to the official <a href=\"http://www.itthinx.com/plugins/groups/\">Groups</a> plugin page and the <a href=\"http://docs.itthinx.com/document/groups/\">Groups documentation</a> pages."
+msgstr ""

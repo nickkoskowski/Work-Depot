@@ -1,0 +1,56 @@
+aside>.banner-sidebar-widget {
+	position:relative;
+	overflow:hidden;
+    border : 1px solid #e7e7e7;
+}
+aside>.banner-sidebar-widget-title h1{
+	text-align : center;
+	font-size   : 46pt;
+	font-weight : lighter;
+	line-height : normal;
+	padding     : 0;
+	text-align  : center;
+	font-family : times new roman;
+	margin-top:20px;
+}
+aside>.banner-sidebar-widget-sub-title{
+    margin-top  : -20px;
+	text-align     : center;
+    color          : #595959;
+    font-weight    : bold;
+    font-size      : 22px;
+    padding        : 10px 6px 15px;
+    text-transform : uppercase;
+    font-family    : times new roman;
+}
+aside>.banner-sidebar-widget-description p{
+	text-align : center;
+	color      : #bbbbbb;
+	padding    : 0 5px;
+}
+aside>.banner-sidebar-widget-image img{
+	margin  : 0px auto;
+	padding : 0px auto;
+	display : block;
+}
+.widget-content > select {	height : 53px;
+	width  : 100%;
+}
+.mango_clients-widget h3 {
+    font-size : 20px;
+}
+@media (max-width : 320px){
+    .banner.banner-color .banner-content h3, .special-sidebar.sidebar .banner.banner-color .banner-content h3 	{
+      font-size : 42px !important;
+    }
+}
+@media only screen and (min-width : 1024px) {
+    .banner.banner-color .banner-content h3, .special-sidebar.sidebar .banner.banner-color .banner-content h3 	{
+        font-size : 32px !important;
+    }
+}
+@media only screen and (min-width : 1224px) {
+    .banner.banner-color .banner-content h3, .special-sidebar.sidebar .banner.banner-color .banner-content h3 	{
+        font-size : 42px !important;
+    }
+}
